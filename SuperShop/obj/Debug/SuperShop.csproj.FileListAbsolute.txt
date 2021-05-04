@@ -1,0 +1,15 @@
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.csprojAssemblyReference.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.Form1.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.CoreCompileInputs.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.DashBoard.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.Registration.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.AddItems.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.Search_Update.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\PROJECT_FINAL\SuperShop\SuperShop\obj\Debug\SuperShop.Delete.resources
